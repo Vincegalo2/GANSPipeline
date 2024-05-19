@@ -20,6 +20,8 @@ GANSPipeline/
 ├── README.md                     # Project overview
 ├── images/                       # Various pictures
 └── requirements.txt              # Project dependencies
+```
+
 
 ### Installations
 
