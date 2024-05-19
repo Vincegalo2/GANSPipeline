@@ -31,6 +31,6 @@ For detailed installation instructions, directory structure, and usage, please r
 
 ### Read More
 
-For an in-depth story about the journey and technical insights, check out my Medium article: [From Lost Octopus to Data Pipeline Success: Navigating Amazon RDS]([https://medium.com/your-article-link](https://medium.com/@vincegalodk/from-lost-octopus-to-data-pipeline-success-navigating-amazon-rds-37412eedc7bd)).
+For an in-depth story about the journey and technical insights, check out my Medium article: [From Lost Octopus to Data Pipeline Success: Navigating Amazon RDS]([https://medium.com/@vincegalodk/from-lost-octopus-to-data-pipeline-success-navigating-amazon-rds-37412eedc7bd]).
 
 Feel free to contribute and enhance this data pipeline project!
