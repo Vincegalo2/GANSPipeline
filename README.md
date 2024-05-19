@@ -1,5 +1,6 @@
 # GANSPipeline
 
+![Pipeline Overview](images/pipeline_overview.png)
 
 This repository contains the code for a comprehensive data engineering project named GANSPipeline. The project aims to create a robust data pipeline that extracts, processes, and stores real-time flight and weather information into a MySQL database on the cloud. The pipeline leverages multiple technologies, including Python, SQL, and AWS, to ensure data flow automation and real-time availability for analysis.
 
@@ -27,9 +28,6 @@ This repository contains the code for a comprehensive data engineering project n
 
 For detailed installation instructions, directory structure, and usage, please refer to the [INSTRUCTIONS.md](INSTRUCTIONS.md).
 
-### Project Overview
-
-![Pipeline Overview](images/pipeline_overview.png)
 
 ### Read More
 
