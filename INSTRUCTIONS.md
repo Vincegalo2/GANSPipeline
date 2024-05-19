@@ -2,6 +2,7 @@
 
 ## Directory Structure
 
+```plaintext
 GANSPipeline/
 ├── notebooks/                    # Jupyter notebooks
 │   ├── gans_flights.ipynb        # Notebook for flight data extraction and processing
