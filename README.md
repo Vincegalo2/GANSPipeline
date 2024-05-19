@@ -2,6 +2,8 @@
 
 GANSPipeline is a cutting-edge data engineering project, completed as part of my coursework at WBS Coding School. It is designed to extract, process, and store real-time flight and weather data in a cloud-based MySQL database. Utilizing a suite of advanced technologies including Python, SQL, and AWS, GANSPipeline automates data flow to ensure real-time data availability and seamless integration for comprehensive analysis.
 
+![Pipeline Overview](images/pipeline_overview.png)
+
 🔹 **Key Features:**
 
 - **Real-Time Data Extraction:** Harnesses APIs to fetch live weather and flight information.
